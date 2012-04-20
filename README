@@ -1,0 +1,6 @@
+Dit is de README van de t2 repository
+Ik test nu of ik met 
+git remote add origin git@github.com:rauwerda/t2.git
+en 
+git push -u origin master
+deze git repository op github kan krijgen.
