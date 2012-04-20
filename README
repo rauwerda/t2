@@ -4,3 +4,4 @@ git remote add origin git@github.com:rauwerda/t2.git
 en 
 git push -u origin master
 deze git repository op github kan krijgen.
+de wijziging in de new brach
